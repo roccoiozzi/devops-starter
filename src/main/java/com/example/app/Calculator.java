@@ -9,4 +9,9 @@ public class Calculator {
     public int multiply(int a, int b) {
         return a * b;
     }
+
+    public int mudule(int a, int b) {
+        return a%b;
+    }
+
 }
